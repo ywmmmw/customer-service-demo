@@ -26,7 +26,11 @@
         "hyperf/process": "~2.0.0",
         "hyperf/redis": "~2.0.0",
         "hyperf/database": "~2.0.0",
-        "hyperf/constants": "~2.0.0"
+        "hyperf/constants": "~2.0.0",
+        "hyperf/view": "^2.0",
+        "hyperf/task": "^2.0",
+        "duncan3dc/blade": "^4.10",
+        "hyperf/websocket-server": "^2.0"
     },
     "require-dev": {
         "swoole/ide-helper": "^4.5",
